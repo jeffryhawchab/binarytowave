@@ -25,7 +25,5 @@ You can modify the parameters of the wave file by changing the values at the top
 
 You can also modify the frequencies used for the high and low values of the binary code by modifying the values in the `if` and `else` blocks in the `convert_to_sound()` function.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
